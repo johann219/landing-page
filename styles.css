@@ -71,3 +71,9 @@ body {
 main {
     flex: 1;
 }
+
+header,
+footer {
+    display: flex;
+    padding: 16px;
+}
