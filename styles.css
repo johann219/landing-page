@@ -82,6 +82,7 @@ header,
 footer {
     display: flex;
     align-items: center;
+    padding: 10px 200px;
 }
 
 footer {
@@ -109,7 +110,7 @@ header {
 }
 
 .hero-text {
-    width: 600px;
+    max-width: 600px;
     text-align: start;
 }
 
@@ -117,4 +118,5 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px 200px;
 }
