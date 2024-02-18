@@ -62,11 +62,6 @@
 }
 
 /* POSITIONING STYLES */
-
-.side-padding {
-    padding: 16px 400px;
-}
-
 body {
     display: flex;
     flex-direction: column;
