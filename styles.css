@@ -55,3 +55,8 @@
     font-size: 18px;
     color: #2f3743;
 }
+
+.placeholder {
+    background-color: #666;
+    color: #ccc;
+}
