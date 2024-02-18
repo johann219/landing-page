@@ -36,6 +36,12 @@
     color: #1f2937;
 }
 
+.text-sec-dark {
+    font-size: 24px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
 .text-qoute {
     font-size: 36px;
     font-weight: lighter;
