@@ -138,4 +138,10 @@ header {
     gap: 60px;
     justify-content: center;
     flex-wrap: wrap;
+    padding: 0 200px;
+}
+
+.info {
+    margin: 0;
+    padding: 40px 200px;
 }
