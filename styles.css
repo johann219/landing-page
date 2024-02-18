@@ -61,6 +61,8 @@
     color: #ccc;
 }
 
+/* POSITIONING STYLES */
+
 body {
     display: flex;
     flex-direction: column;
@@ -76,4 +78,15 @@ header,
 footer {
     display: flex;
     padding: 16px;
+    align-items: center;
+}
+
+footer {
+    justify-content: center;
+}
+
+.hero-head,
+.logo {
+    padding: 0;
+    margin: 0;
 }
