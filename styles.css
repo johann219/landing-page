@@ -157,3 +157,44 @@ a {
     font-size: 18px;
     color: #1f2937;
 }
+
+.call {
+    display: flex;
+    justify-content: center;
+}
+
+.call-container {
+    display: flex;
+    width: 1280px;
+    background-color: #3882f6;
+    padding: 40px 80px;
+    margin: 100px 20px;
+    border-radius: 16px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call-head {
+    margin: 0;
+    padding: 0;
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.call-desc {
+    margin: 0;
+    padding: 0;
+    color: #e5e7eb;
+}
+
+.call-button {
+    background-color: #3882f6;
+    border: 2px solid #e5e7eb;
+    border-radius: 4px;
+    color: #e5e7eb;
+    padding: 4px 24px;
+    font-size: 20px;
+    font-weight: bold;
+}
