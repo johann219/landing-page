@@ -198,3 +198,25 @@ a {
     font-size: 20px;
     font-weight: bold;
 }
+
+footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-container {
+    width: 1280px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+}
