@@ -88,3 +88,42 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+
+.gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1280px;
+    padding: 0 20px;
+}
+
+.gallery-head {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin: 40px 0;
+    padding: 0;
+}
+
+.cards-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.card {
+    width: 200px;
+}
+
+.card img {
+    border-radius: 16px;
+}
