@@ -148,4 +148,9 @@ header {
 
 .qoute-container {
     padding: 40px 200px;
+    display: flex;
+}
+
+blockquote {
+    padding: 0;
 }
